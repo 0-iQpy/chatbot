@@ -57,8 +57,8 @@ All ingestion and chat activities are logged locally for debugging and evaluatio
 ```
 SUPABASE_URL=<your_supabase_url>
 SUPABASE_KEY=<your_supabase_api_key>
-JWT_SECRET=<random_secret>
-MODEL=llama3.2:1b
+
+it depends on the method you want to use to connect to your database
 ```
 
 ### Run Locally
